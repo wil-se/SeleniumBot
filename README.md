@@ -1,10 +1,10 @@
 # SeleniumBot
 
 ## Setup
-- crea una cartella
+crea una cartella
 
 `mkdir SeleniumBot`
 
-- clona questo progetto
+clona questo progetto
 
-`git clone `
+`git@github.com:wil-se/SeleniumBot.git`
